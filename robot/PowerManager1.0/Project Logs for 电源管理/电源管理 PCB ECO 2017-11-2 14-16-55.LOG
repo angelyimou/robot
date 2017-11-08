@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=3V3 Old Footprint=LED_0603_RED New Footprint=LED_0805_GREEN
+Change Component Footprint: Designator=5V Old Footprint=LED_0603_RED New Footprint=LED_0805_GREEN
+Change Component Footprint: Designator=24V Old Footprint=LED_0603_RED New Footprint=LED_0805_GREEN
+Change Component Footprint: Designator=PB0 Old Footprint=LED_0603_RED New Footprint=LED_0805_GREEN
+Change Component Footprint: Designator=FLASH Old Footprint=SOP_E150_8 New Footprint=SOIC_E200_8

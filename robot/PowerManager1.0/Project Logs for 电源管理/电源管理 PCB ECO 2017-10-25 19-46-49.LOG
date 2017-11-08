@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetP2_5 Pin=P2-5
+Change Component Footprint: Designator=R18 Old Footprint=HDR1X2 New Footprint=RES-0603
+Added Component: Designator=RCAN(HDR1X2)
+Added Pin To Net: NetName=CAN_H Pin=P2-5
+Added Pin To Net: NetName=NetP2_5 Pin=RCAN-1
+Added Pin To Net: NetName=CAN_L Pin=RCAN-2
+Change Net Name : Old Net Name=NetP2_5 New Net Name=NetR18_1
+Added Member To Class: ClassName=电源管理 Member=Component R18 Res_0603
+Added Member To Class: ClassName=电源管理 Member=Component RCAN 

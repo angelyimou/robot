@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=3V3 Pin=U1-4
+Change Component Footprint: Designator=R18 Old Footprint=RES-0603 New Footprint=HDR1X2
